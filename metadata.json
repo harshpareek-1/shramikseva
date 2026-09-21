@@ -1,0 +1,6 @@
+{
+  "name": "Karyo - Local Home Services Marketplace",
+  "description": "On-demand marketplace connecting customers with skilled local electricians, plumbers, carpenters, painters, and cleaners with transparent, job-specific ranking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
